@@ -1,0 +1,32 @@
+.footer {
+    width: 100%;
+    height: 150px;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 350px;
+
+}
+
+.twitt{
+    cursor: pointer;
+    font-size: 40px;
+    margin: 10px;
+    color: rgb(31, 133, 223);
+}
+.git, .linkedIn {
+    color: white;
+    cursor: pointer;
+    font-size: 40px;
+    margin: 10px;
+}
+
+
+
+@media only screen and (max-width: 600px){
+    .footer, .git, .linkedIn, .twitt {
+        font-size: 50px;
+    }
+}
