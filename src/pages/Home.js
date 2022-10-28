@@ -22,7 +22,7 @@ function Home() {
               <span>BootStrap</span><br></br>
               <span>Bulma</span><br></br>
               <span>React.js</span><br></br>
-              <span>HTMLL</span><br></br>
+              <span>HTML</span><br></br>
               <span>CSS</span><br></br>
               <span>NPM</span><br></br>
               <span>React</span><br></br>              
