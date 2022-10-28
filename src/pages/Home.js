@@ -1,4 +1,5 @@
 import React from 'react'
+import "../styles/Home.css";
 
 function Home() {
   return (
@@ -12,8 +13,8 @@ function Home() {
             organization. </p> 
           </div>
       </div>
+      <h1>Skills</h1>
       <div className='skills'>
-        <h1>Skills</h1>
         <div className='front-end'>
           <ol className='list'>
             <li className='item'>
