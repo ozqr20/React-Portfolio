@@ -2,7 +2,8 @@
     width: 100%;
     align-items: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: darkslategray;  
+    background: black;
+    color: white;
 }
 
 .introduction {
@@ -26,6 +27,7 @@
 .introduction .me {
     width: 40%;
     font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
     justify-content: flex-end;
 }
@@ -45,7 +47,7 @@
     margin-inline: 300px;
 
 }
-.front-end, .back-end, .languages{
+.front-end, .back-end, .tools{
     width: 60%;
     display: flex;
     text-align: center;
@@ -72,7 +74,7 @@
         width: 80%;
     }
 
-    .skills .front-end, .back-end, .languages {
+    .skills .front-end, .back-end, .tools {
         text-align: center;
         width: 100%;
         margin-inline: 60px;

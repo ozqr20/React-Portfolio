@@ -42,13 +42,13 @@ function Home() {
             </li>
           </ol>
         </div>
-        <div className='languages'>
+        <div className='tools'>
           <ol className='list'>
             <li className='item'>
-              <h2>Languages</h2>
-              <span>JavaScript</span><br></br>
-              <span>C++</span><br></br>
-              <span>Java</span><br></br>
+              <h2>Tools</h2>
+              <span>Github</span><br></br>
+              <span>VS Code</span><br></br>
+              <span></span><br></br>
             </li>
           </ol>
         </div>

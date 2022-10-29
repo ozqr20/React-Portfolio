@@ -9,32 +9,32 @@ export const ProjectList = [
     {
         name: "Shelter Shop ",
         image: Shelter,
-        /*URL: `https://ozqr20.github.io/shelter-stop/` */
+        url: `https://ozqr20.github.io/shelter-stop/`
     },
     {
         name: "Rate Your Food ",
         image: RateFood,
-         /*URL: `https://tranquil-dusk-31176.herokuapp.com/`, */
+        url: `https://tranquil-dusk-31176.herokuapp.com/`
     },
     {
         name: "Summer Game",
         image: Game,
-        /*URL: `https://ozqr20.github.io/Summer-Game-Proyect/` */
+        url: `https://ozqr20.github.io/Summer-Game-Proyect/`
     },
     {
         name: "Password Generator ",
         image: Password,
-        /*URL:  `https://ozqr20.github.io/Password-Generator/`*/
+        url:  `https://ozqr20.github.io/Password-Generator/`
     },
     {
         name: "Timed Quiz ",
         image: Quiz,
-        /*URL: `https://ozqr20.github.io/Timed-Quiz/` */
+        url: `https://ozqr20.github.io/Timed-Quiz/`
     },
     {
         name: "Weather Dashboard",
         image: Weather,
-        /*URL: `https://ozqr20.github.io/Weather-Dashboard/` */
+        url: `https://ozqr20.github.io/Weather-Dashboard/`
 
     }
 ]
