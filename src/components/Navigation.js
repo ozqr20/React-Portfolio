@@ -27,7 +27,6 @@ function Navigation() {
         <div className="links">
           <Link to="/"> Home </Link>
           <Link to="/projects"> Projects </Link>
-          <Link to="/resume"> Resume </Link>
         </div>
       </div>
     </div>
