@@ -24,8 +24,7 @@ function Home() {
               <span>React.js</span><br></br>
               <span>HTML</span><br></br>
               <span>CSS</span><br></br>
-              <span>NPM</span><br></br>
-              <span>React</span><br></br>              
+              <span>NPM</span><br></br>              
             </li>
           </ol>
         </div>
@@ -38,7 +37,6 @@ function Home() {
               <span>MySQL</span><br></br>
               <span>SQL</span><br></br>
               <span>Heroku</span><br></br>
-              <span>MondoDB</span><br></br>
             </li>
           </ol>
         </div>
