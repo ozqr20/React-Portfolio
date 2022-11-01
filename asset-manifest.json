@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.39e175f7.css",
+    "main.js": "/React-Portfolio/static/js/main.211d4c56.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/timequiz.png": "/React-Portfolio/static/media/timequiz.ba9bc25f0fca90d4252d.png",
+    "static/media/Shelter-shop.png": "/React-Portfolio/static/media/Shelter-shop.c3cc22464f584b4a1455.png",
+    "static/media/ratefood.png": "/React-Portfolio/static/media/ratefood.10c57ec4ae5928a296e6.png",
+    "static/media/weather.png": "/React-Portfolio/static/media/weather.bfc3c4610884d5d4cbd9.png",
+    "static/media/image1.jpg": "/React-Portfolio/static/media/image1.1998292446f451ab8daf.jpg",
+    "static/media/banner-game.jpg": "/React-Portfolio/static/media/banner-game.8b0b3b7a5866530e35ac.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.39e175f7.css.map": "/React-Portfolio/static/css/main.39e175f7.css.map",
+    "main.211d4c56.js.map": "/React-Portfolio/static/js/main.211d4c56.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39e175f7.css",
+    "static/js/main.211d4c56.js"
+  ]
+}
