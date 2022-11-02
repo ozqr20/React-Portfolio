@@ -7,6 +7,7 @@ function ProjectItem({ image, name, url }) {
     <div
       className="projectItem"
       onClick={() => {
+        // Opens a new window
         navigate(window.open(url));
       }}
     >
